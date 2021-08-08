@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chen Hao's homepage</title>
+    <link rel="stylesheet" href = 'static/bootstrap.min.css'>
+    <link rel="stylesheet" href = 'static/utils.css'>
+</head>
+<body>
+
+<div class="container">
+<div class="row justify-content-md-center">
+
+    <div class="col">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Chen Hao</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+
+
+<div class="row justify-content-md-center mt-3">
+    <div class="col  m-4">
+    <div id="main"></div>
+    </div>
+</div>
+
+<div class="row justify-content-md-center fixed-bottom bg-light p-2">
+    <div class="col text-center">
+        <footer>
+            &copy; The website is designed by <span class="font-italic">Chen Hao</span>
+        </footer>
+    </div>
+</div>
+
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="static/bootstrap.min.js"></script>
+<script src="static/md.js"></script>
+<script src="static/utils.js"></script>
+<script src="static/mvc.js"></script>
+<script src="static/imgsloader.js"></script>
+<script>
+    window.onload = ()=>{
+        mvcinstance = new mvc();
+
+        function checkActivate(text){
+            for (let component of $id('navbarNav').querySelectorAll('.nav-link')){
+                component.classList.remove('active');
+                if(component.innerHTML === text){
+                    component.classList.add('active')
+                }
+            }
+        }
+
+        // controller
+        mvcinstance.addRoute(function () {
+            // activate the navigation
+            checkActivate('Home');
+        }, "/home", "template/main.md");
+        //
+        mvcinstance.addRoute(function () {
+            checkActivate('Resume');
+        }, "/resume", "template/resume.md");
+        //
+        mvcinstance.addRoute(function () {
+
+            replaceImg = function(){
+                for (let cp of $_("img")){
+                    let imgtmp = new cImg();
+                    imgtmp.src = cp.src;
+                    cp.parentNode.replaceChild(imgtmp,cp);
+                }
+            };
+
+            checkActivate('Research');
+            return {callback:replaceImg}
+        }, "/research", "template/research.md");
+        mvcinstance.addRoute(function () {
+            checkActivate('Album');
+            return {callback:loadImg}
+        }, "/album", "template/album.html");
+        //
+        mvcinstance.addRoute(function () {
+            // activate the navigation
+            checkActivate('Game');
+        }, "/game", "template/game.md");
+
+        mvcinstance.addRoute(function () {
+            // activate the navigation
+            checkActivate('Resources');
+        }, "/resources", "template/resource.md");
+
+        mvcinstance.initialize();
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+@keyframes appearanimation {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes finishanimation {
+    from {opacity: 1;}
+    to {opacity: 0;}
+}
+
+.c-solid{
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:1041;
+    width:100vw;
+    height:100vh;
+    animation-name: appearanimation;
+    animation-duration: .5s;
+    cursor: pointer;
+}
+
+.c-transparency{
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:1041;
+    width:100vw;
+    height:100vh;
+    opacity: 0;
+    animation-name: finishanimation;
+    animation-duration: .5s;
+}
+
+.c-responsive {
+    width: auto;
+    max-height: 70vh;
+    border-radius:0px;
+}
+
+.c-responsive:hover {
+    opacity: 1;
+}
+
+.c-center {
+    min-height: 100vh;
+    display         : flex;
+    justify-content : center;
+    align-items     : center;
+}
+
+p{
+
+}
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 30px;
+    quotes: "\201C""\201D""\201C""\201D";
+    text-align: justify;
+    text-justify:inter-ideograph;
+    font-style: italic;
+}
+blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+blockquote p {
+    display: inline;
+}
+
+img{
+    display:block;
+    margin:auto;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 383px;
+    transition: 0.3s;
+}
+
+img:hover {
+    opacity: 0.7;
+}
+
+.gameframe{
+    border: 0;
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+}
+
+.container{
+    margin-bottom: 30px;
+}
