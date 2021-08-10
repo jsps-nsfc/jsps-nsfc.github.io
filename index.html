@@ -67,15 +67,15 @@
         mvcinstance.addRoute(function () {
             // activate the navigation
             checkActivate('Home');
-        }, "/home", "template/main.md");
+        }, "/home", "template/home.md");
         //
         mvcinstance.addRoute(function () {
             checkActivate('Project');
-        }, "/resume", "template/resume.md");
+        }, "/project", "template/project.md");
         
         mvcinstance.addRoute(function () {
             checkActivate('Consortium');
-        }, "/book", "template/book.md");
+        }, "/consortium", "template/consortium.md");
         //
         mvcinstance.addRoute(function () {
 
@@ -98,17 +98,17 @@
         mvcinstance.addRoute(function () {
             // activate the navigation
             checkActivate('People');
-        }, "/game", "template/game.md");
+        }, "/people", "template/people.md");
 
         mvcinstance.addRoute(function () {
             // activate the navigation
             checkActivate('Seminars');
-        }, "/resources", "template/resource.md");
+        }, "/seminars", "template/seminars.md");
 
         mvcinstance.addRoute(function () {
             // activate the navigation
             checkActivate('Results');
-        }, "/resources", "template/results.md");
+        }, "/results", "template/results.md");
 
         mvcinstance.initialize();
     }
