@@ -77,24 +77,13 @@
             checkActivate('Consortium');
         }, "/consortium", "template/consortium.md");
         //
+        
         mvcinstance.addRoute(function () {
-
-            replaceImg = function(){
-                for (let cp of $_("img")){
-                    let imgtmp = new cImg();
-                    imgtmp.src = cp.src;
-                    cp.parentNode.replaceChild(imgtmp,cp);
-                }
-            };
 
             checkActivate('Research');
             return {callback:replaceImg}
         }, "/research", "template/research.md");
-        mvcinstance.addRoute(function () {
-            checkActivate('Album');
-            return {callback:loadImg}
-        }, "/album", "template/album.html");
-        //
+
         mvcinstance.addRoute(function () {
             // activate the navigation
             checkActivate('People');
