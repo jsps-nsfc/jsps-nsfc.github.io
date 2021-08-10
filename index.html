@@ -97,13 +97,18 @@
         //
         mvcinstance.addRoute(function () {
             // activate the navigation
-            checkActivate('Game');
+            checkActivate('People');
         }, "/game", "template/game.md");
 
         mvcinstance.addRoute(function () {
             // activate the navigation
-            checkActivate('Resources');
+            checkActivate('Seminars');
         }, "/resources", "template/resource.md");
+
+        mvcinstance.addRoute(function () {
+            // activate the navigation
+            checkActivate('Results');
+        }, "/resources", "template/results.md");
 
         mvcinstance.initialize();
     }
