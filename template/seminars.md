@@ -1,4 +1,4 @@
-#Seminar 
+#Seminars 
 
 ##Schedule at August 6, 2021
 
