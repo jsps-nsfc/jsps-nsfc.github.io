@@ -16,7 +16,7 @@ XIA Ziwei received the bachelor degree in Mechanical Engineering from China Univ
 ###YU Bowen
 YU Bowen is an M1 student of Graduate School of Engineering Science, Osaka University. His research interests focus on pneumatic soft gripper. 
 
-<img src="/imgs/ZhengHaoxian.jpg" alt="zhenghaoxian" height=200>
+<img src="/imgs/ZhengHaoxian.jpg" alt="zhenghaoxian" height=200 width=150>
 ###ZHENG Haoxian
 Zheng Haoxian is a master's student in mechanical engineering at Jiangnan University, China. His research interests focus on robotic manipulation and mechanism design.
 
