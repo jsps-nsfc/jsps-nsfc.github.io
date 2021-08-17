@@ -19,7 +19,7 @@ YU Bowen is an M1 student of Graduate School of Engineering Science, Osaka Unive
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="..." class="card-img" alt="...">
+      <img src="/imgs/ZhengHaoxian.jpg" class="card-img" alt="zhenghaoxian">
     </div>
     <div class="col-md-8">
       <div class="card-body">
