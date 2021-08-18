@@ -34,7 +34,7 @@
 
 
 
-<div class="card mb-3" style="max-width: 700px;">
+<div class="card mb-3 border-0" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/GaoYuan.jpg" class="card-img" alt="gaoyuan">
