@@ -17,7 +17,7 @@ XIA Ziwei received the bachelor degree in Mechanical Engineering from China Univ
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/imgs/XiaZiwei.jpg" class="card-img" alt="xiaziwei">
+      <img src="/imgs/XiaZiwei.png" class="card-img" alt="xiaziwei">
     </div>
     <div class="col-md-8">
       <div class="card-body">
