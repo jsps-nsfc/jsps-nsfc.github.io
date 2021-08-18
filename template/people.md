@@ -13,6 +13,24 @@
 XIA Ziwei received the bachelor degree in Mechanical Engineering from China University of Geoscience (Beijing) in 2017, where he is currently working toward the Ph.D. degree in Mechanical Engineering. His research interests include design and modeling of dexterous hand, tactile sensor
 
 
+
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="/imgs/XiaZiwei.jpg" class="card-img" alt="xiaziwei">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">XIA Ziwei</h5>
+        <p class="card-text">XIA Ziwei received the bachelor degree in Mechanical Engineering from China University of Geoscience (Beijing) in 2017, where he is currently working toward the Ph.D. degree in Mechanical Engineering. His research interests include design and modeling of dexterous hand, tactile sensor</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
 ###YU Bowen
 YU Bowen is an M1 student of Graduate School of Engineering Science, Osaka University. His research interests focus on pneumatic soft gripper. 
 <div class="card mb-3" style="max-width: 540px;">
