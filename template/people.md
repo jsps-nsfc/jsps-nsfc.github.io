@@ -17,8 +17,6 @@
 
 
 
-###FANG Bin
-
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
@@ -33,8 +31,6 @@
   </div>
 </div>
 
-
-###GAO Yuan
 
 
 <div class="card mb-3" style="max-width: 540px;">
@@ -71,8 +67,7 @@
 
 
 
-###YU Bowen
-YU Bowen is an M1 student of Graduate School of Engineering Science, Osaka University. His research interests focus on pneumatic soft gripper. 
+
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
