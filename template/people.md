@@ -25,7 +25,7 @@
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">FANG Bin</h5>
-        <p class="card-text">Zheng Haoxian is a master's student in mechanical engineering at Jiangnan University, China. His research interests focus on robotic manipulation and mechanism design.</p>
+        <p class="card-text">Bin Fang received the Ph.D. degree from Beihang University, Beijing, China, in 2014.,He is currently an Assistant Professor with the Department of Computer Science and Technology, Tsinghua University, Beijing. His current research interests include robotic perception and multimodal interaction.</p>
       </div>
     </div>
   </div>
