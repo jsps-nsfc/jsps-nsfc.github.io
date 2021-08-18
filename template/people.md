@@ -1,5 +1,6 @@
 
 ##People
+</n>
 
 <div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
