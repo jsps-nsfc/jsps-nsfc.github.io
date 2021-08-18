@@ -5,12 +5,12 @@
 <div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/imgs/ZhengHaoxian.jpg" class="card-img" alt="zhenghaoxian">
+      <img src="/imgs/WanWeiwei.jpg" class="card-img" alt="wanweiwei">
     </div>
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">WAN Weiwei</h5>
-        <p class="card-text">Zheng Haoxian is a master's student in mechanical engineering at Jiangnan University, China. His research interests focus on robotic manipulation and mechanism design.</p>
+        <p class="card-text">WanWeiwei</p>
       </div>
     </div>
   </div>
@@ -34,7 +34,7 @@
 
 
 
-<div class="card mb-3 border-0" style="max-width: 700px;">
+<div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/GaoYuan.jpg" class="card-img" alt="gaoyuan">
@@ -72,7 +72,7 @@
 <div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/imgs/ZhengHaoxian.jpg" class="card-img" alt="zhenghaoxian">
+      <img src="/imgs/YuBowen.jpg" class="card-img" alt="yubowen">
     </div>
     <div class="col-md-8">
       <div class="card-body">
