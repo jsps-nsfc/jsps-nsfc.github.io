@@ -21,7 +21,7 @@
 <div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/imgs/Fangbin.jpg" class="card-img" alt="fangbin">
+      <img src="/imgs/FangBin.jpg" class="card-img" alt="fangbin">
     </div>
     <div class="col-md-8">
       <div class="card-body">
