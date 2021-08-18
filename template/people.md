@@ -36,12 +36,12 @@
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="/imgs/ZhengHaoxian.jpg" class="card-img" alt="zhenghaoxian">
+      <img src="/imgs/GaoYuan.jpg" class="card-img" alt="gaoyuan">
     </div>
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">GAO Yuan</h5>
-        <p class="card-text">Zheng Haoxian is a master's student in mechanical engineering at Jiangnan University, China. His research interests focus on robotic manipulation and mechanism design.</p>
+        <p class="card-text">GAO Yuan is a Ph.D. student in the department of engineering science at Osaka University. She got her bachelor’s degree of physics in 2018 and got her master’s degree in Osaka University. Currently, her research topic is the application of the Gelsight sensor in robotic manipulation.</p>
       </div>
     </div>
   </div>
