@@ -59,7 +59,7 @@
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">XIA Ziwei</h5>
-        <p class="card-text">XIA Ziwei received the bachelor degree in Mechanical Engineering from China University of Geoscience (Beijing) in 2017, where he is currently working toward the Ph.D. degree in Mechanical Engineering. His research interests include design and modeling of dexterous hand, tactile sensor</p>
+        <p class="card-text">XIA Ziwei received the bachelor degree in Mechanical Engineering from China University of Geoscience (Beijing) in 2017, where he is currently working toward the Ph.D. degree in Mechanical Engineering. His research interests include design and modeling of dexterous hand, tactile sensor.</p>
       </div>
     </div>
   </div>
