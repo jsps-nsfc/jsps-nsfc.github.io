@@ -14,4 +14,10 @@
 
 
 
+##Schedule at September 24, 2021
+
+14pm-16pm (Japan timezone) or 13pm-15pm (China timezone)
+
+14:00pm meeting begin
+    
 
