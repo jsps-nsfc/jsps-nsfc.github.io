@@ -2,7 +2,7 @@
 #People
 </n>
 
-<div class="card mb-3" style="max-width: 700px;">
+<div class="card mb-3" style="max-width: 500px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/WanWeiwei.jpg" class="card-img" alt="wanweiwei">
@@ -18,7 +18,7 @@
 
 
 
-<div class="card mb-3" style="max-width: 700px;">
+<div class="card mb-3" style="max-width: 500px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/FangBin.jpg" class="card-img" alt="fangbin">
