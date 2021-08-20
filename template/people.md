@@ -2,7 +2,7 @@
 #People
 </n>
 
-<div class="card mb-3" style="max-width: 1000px;">
+<div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/WanWeiwei.jpg" class="card-img" alt="wanweiwei">
@@ -18,7 +18,7 @@
 
 
 
-<div class="card mb-3" style="max-width: 1000px;">
+<div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/FangBin.jpg" class="card-img" alt="fangbin">
@@ -34,7 +34,7 @@
 
 
 
-<div class="card mb-3" style="max-width: 1000px;">
+<div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/GaoYuan.jpg" class="card-img" alt="gaoyuan">
@@ -51,7 +51,7 @@
 
 
 
-<div class="card mb-3" style="max-width: 1000px;">
+<div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/XiaZiwei.png" class="card-img" alt="xiaziwei">
@@ -69,7 +69,7 @@
 
 
 
-<div class="card mb-3" style="max-width: 1000px;">
+<div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/YuBowen.jpg" class="card-img" alt="yubowen">
@@ -89,7 +89,7 @@
 
 
 
-<div class="card mb-3" style="max-width: 1000px;">
+<div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="/imgs/ZhengHaoxian.jpg" class="card-img" alt="zhenghaoxian">
