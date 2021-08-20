@@ -1,8 +1,8 @@
 #Seminars 
 
-##Schedule at August 6, 2021
+##Schedule at Aug. 6th, 2021
 
-10am-12am (Japan timezone) or 9am-11am (China timezone)
+10am-12am (JST) or 9am-11am (CST)
 
 10:00am meeting begin
     
@@ -14,9 +14,9 @@
 
 
 
-##Schedule at September 24, 2021
+##Schedule at Sept. 24th, 2021
 
-14pm-16pm (Japan timezone) or 13pm-15pm (China timezone)
+14pm-16pm (JST) or 13pm-15pm (CST)
 
 14:00pm meeting begin
     
