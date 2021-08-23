@@ -2,6 +2,30 @@
 #People
 </n>
 
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="card mb-3" style="width: 1000px;">
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <img src="/imgs/WanWeiwei.jpg" class="card-img" alt="wanweiwei">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+          <h5 class="card-title">WAN Weiwei</h5>
+        <p class="card-text">Weiwei Wan (Senior Member, IEEE) received the Ph.D. degree in robotics from the Department of Mechano Informatics, The University of Tokyo, Tokyo, Japan, in 2013. From 2013 to 2015, he did his postdoctoral research at Carnegie Mellon University, USA, under the support of the Japanese Society for the Promotion of Science (JSPS). From 2015 to 2017, he was a Tenure-Track Research Scientist with the National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Japan. He is currently an Associate Professor working with the Graduate School of Engineering Science, Osaka University, Japan. His research interests include robotic manipulation and smart manufacturing.</p>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+    <div class="col">Column</div>
+    <div class="w-100"></div>
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+  </div>
+</div>
+
 <div class="card mb-3" style="width: 1000px;">
   <div class="row no-gutters">
     <div class="col-md-4">
