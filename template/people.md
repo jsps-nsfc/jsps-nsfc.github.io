@@ -19,7 +19,22 @@
   </div>
 </div>
     </div>
-    <div class="col">Column</div>
+    <div class="col">
+      <div class="card mb-3" style="width: 1000px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="/imgs/FangBin.jpg" class="card-img" alt="fangbin">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">FANG Bin</h5>
+        <p class="card-text">Bin Fang received the Ph.D. degree from Beihang University, Beijing, China, in 2014.,He is currently an Assistant Professor with the Department of Computer Science and Technology, Tsinghua University, Beijing. His current research interests include robotic perception and multimodal interaction.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
     <div class="w-100"></div>
     <div class="col">Column</div>
     <div class="col">Column</div>
