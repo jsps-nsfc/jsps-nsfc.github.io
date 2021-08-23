@@ -5,7 +5,7 @@
 <div class="container">
   <div class="row">
     <div class="col">
-      <div class="card mb-3" style="width: 700px;">
+      <div class="card mb-3" style="width: 600px;">
         <div class="row no-gutters">
           <div class="col-md-4">
             <img src="/imgs/WanWeiwei.jpg" class="card-img" alt="wanweiwei">
@@ -20,7 +20,7 @@
       </div>
     </div>
     <div class="col">
-      <div class="card mb-3" style="width: 700px;">
+      <div class="card mb-3" style="width: 600px;">
         <div class="row no-gutters">
           <div class="col-md-4">
             <img src="/imgs/WanWeiwei.jpg" class="card-img" alt="wanweiwei">
