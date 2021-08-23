@@ -12,29 +12,29 @@
           </div>
           <div class="col-md-8">
             <div class="card-body">
-          <h5 class="card-title">WAN Weiwei</h5>
-        <p class="card-text">Weiwei Wan (Senior Member, IEEE) received the Ph.D. degree in robotics from the Department of Mechano Informatics, The University of Tokyo, Tokyo, Japan, in 2013. From 2013 to 2015, he did his postdoctoral research at Carnegie Mellon University, USA, under the support of the Japanese Society for the Promotion of Science (JSPS). From 2015 to 2017, he was a Tenure-Track Research Scientist with the National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Japan. He is currently an Associate Professor working with the Graduate School of Engineering Science, Osaka University, Japan. His research interests include robotic manipulation and smart manufacturing.</p>
+              <h5 class="card-title">WAN Weiwei</h5>
+                <p class="card-text">Weiwei Wan (Senior Member, IEEE) received the Ph.D. degree in robotics from the Department of Mechano Informatics, The University of Tokyo, Tokyo, Japan, in 2013. From 2013 to 2015, he did his postdoctoral research at Carnegie Mellon University, USA, under the support of the Japanese Society for the Promotion of Science (JSPS). From 2015 to 2017, he was a Tenure-Track Research Scientist with the National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Japan. He is currently an Associate Professor working with the Graduate School of Engineering Science, Osaka University, Japan. His research interests include robotic manipulation and smart manufacturing.</p>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</div>
     </div>
     <div class="col">
       <div class="card mb-3" style="width: 500px;">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="/imgs/FangBin.jpg" class="card-img" alt="fangbin">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">FANG Bin</h5>
-        <p class="card-text">Bin Fang received the Ph.D. degree from Beihang University, Beijing, China, in 2014.,He is currently an Assistant Professor with the Department of Computer Science and Technology, Tsinghua University, Beijing. His current research interests include robotic perception and multimodal interaction.</p>
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <img src="/imgs/WanWeiwei.jpg" class="card-img" alt="wanweiwei">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">WAN Weiwei</h5>
+                <p class="card-text">Weiwei Wan (Senior Member, IEEE) received the Ph.D. degree in robotics from the Department of Mechano Informatics, The University of Tokyo, Tokyo, Japan, in 2013. From 2013 to 2015, he did his postdoctoral research at Carnegie Mellon University, USA, under the support of the Japanese Society for the Promotion of Science (JSPS). From 2015 to 2017, he was a Tenure-Track Research Scientist with the National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Japan. He is currently an Associate Professor working with the Graduate School of Engineering Science, Osaka University, Japan. His research interests include robotic manipulation and smart manufacturing.</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-</div>
-
-    </div>
+   </div>
     <div class="w-100"></div>
     <div class="col">Column</div>
     <div class="col">Column</div>
