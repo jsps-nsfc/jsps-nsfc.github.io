@@ -36,43 +36,27 @@
     </div>
    </div>
     <div class="w-100"></div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-  </div>
-</div>
-
-
-
-
-<div class="card mb-3" style="width: 1000px;">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="/imgs/FangBin.jpg" class="card-img" alt="fangbin">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">FANG Bin</h5>
-        <p class="card-text">Bin Fang received the Ph.D. degree from Beihang University, Beijing, China, in 2014.,He is currently an Assistant Professor with the Department of Computer Science and Technology, Tsinghua University, Beijing. His current research interests include robotic perception and multimodal interaction.</p>
+    <div class="col">
+      <div class="card mb-3" style="width: 500px;">
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <img src="/imgs/GaoYuan.jpg" class="card-img" alt="gaoyuan">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">GAO Yuan</h5>
+                <p class="card-text">GAO Yuan is a Ph.D. student in the department of engineering science at Osaka University. She got her bachelor’s degree of physics in 2018 and got her master’s degree in Osaka University. Currently, her research topic is the application of the Gelsight sensor in robotic manipulation.</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-</div>
-
-
-
-<div class="card mb-3" style="max-width: 1000px;">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="/imgs/GaoYuan.jpg" class="card-img" alt="gaoyuan">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">GAO Yuan</h5>
-        <p class="card-text">GAO Yuan is a Ph.D. student in the department of engineering science at Osaka University. She got her bachelor’s degree of physics in 2018 and got her master’s degree in Osaka University. Currently, her research topic is the application of the Gelsight sensor in robotic manipulation.</p>
-      </div>
+    <div class="col">Column
     </div>
   </div>
 </div>
+
+
 
 
 
