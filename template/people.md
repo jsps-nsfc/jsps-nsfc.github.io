@@ -65,27 +65,41 @@
         </div>
       </div>
     </div>
-  </div>
-</div>
-
-
-
-
-
-
-<div class="card mb-3" style="max-width: 1000px;">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="/imgs/XiaZiwei.png" class="card-img" alt="xiaziwei">
+    <div class="w-100"></div>
+    <div class="col">
+      <div class="card mb-3" style="width: 500px;">
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <img src="/imgs/GaoYuan.jpg" class="card-img" alt="gaoyuan">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">GAO Yuan</h5>
+                <p class="card-text">GAO Yuan is a Ph.D. student in the department of engineering science at Osaka University. She got her bachelor’s degree of physics in 2018 and got her master’s degree in Osaka University. Currently, her research topic is the application of the Gelsight sensor in robotic manipulation.</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">XIA Ziwei</h5>
-        <p class="card-text">XIA Ziwei received the bachelor degree in Mechanical Engineering from China University of Geoscience (Beijing) in 2017, where he is currently working toward the Ph.D. degree in Mechanical Engineering. His research interests include design and modeling of dexterous hand, tactile sensor.</p>
+    <div class="col">
+      <div class="card mb-3" style="width: 500px;">
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <img src="/imgs/XiaZiwei.png" class="card-img" alt="xiaziwei">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">XIA Ziwei</h5>
+                <p class="card-text">XIA Ziwei received the bachelor degree in Mechanical Engineering from China University of Geoscience (Beijing) in 2017, where he is currently working toward the Ph.D. degree in Mechanical Engineering. His research interests include design and modeling of dexterous hand, tactile sensor.</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </div>
+
+
 
 
 
