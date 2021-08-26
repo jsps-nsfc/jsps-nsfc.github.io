@@ -65,7 +65,6 @@
         </div>
       </div>
     </div>
-    <div class="w-100"></div>
     <div class="col">
       <div class="card mb-3" style="width: 500px;">
         <div class="row no-gutters">
